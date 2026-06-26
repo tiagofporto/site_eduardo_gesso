@@ -1,0 +1,6 @@
+{
+  "name": "Eduardo Gesso",
+  "description": "Acabamentos em Gesso de Alto Padrão - Sancas, molduras, forros e acabamentos em gesso com precisão de escultor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
